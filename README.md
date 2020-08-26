@@ -22,6 +22,7 @@ And I practiced with some exercises/assignments from:
     │└── src
     │    ├── hello_omp.c  - Simple example of parallel threads
     │    ├── int_pi.c   - Pi approximations using OMP tasks, atomic and reduction
+    |    ├── mandelbrot.c - Mandelbrot area calculation using reductions
     │    └── produc_consum.c - Simples example of using OMP sections
 
 ```
