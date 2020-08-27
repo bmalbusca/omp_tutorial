@@ -1,10 +1,13 @@
 # OpenMP Tutorial
 
-I followed the contents available (FREE) at:
+I followed the (FREE) contents available at:
 
 - [Mattson Hands on Intro | PDF]( https://extremecomputingtraining.anl.gov/files/2016/08/Mattson_830aug3_HandsOnIntro.pdf)
 
 - [Aalto University course](http://ppc.cs.aalto.fi)
+
+- [User-Defined Reductions | PDF](https://www2.ccs.tsukuba.ac.jp/workshop/IWOMP2010/slides/Alex-udrs.pdf)
+- [Tile reduction | PDF](https://www.capsl.udel.edu//pub/doc/papers/Gan-IWOMP2009.pdf)
 
 And I practiced with some exercises/assignments from: 
 
